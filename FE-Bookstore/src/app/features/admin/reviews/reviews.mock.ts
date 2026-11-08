@@ -1,0 +1,31 @@
+import { ReviewListItemResponse, ReviewStatus, Sentiment } from './reviews.models';
+
+export const REVIEW_MOCK_ROWS: ReviewListItemResponse[] = [
+  { id: 'rv-01', bookId: 'b-01', bookTitle: 'Rừng Na Uy (Norwegian Wood)', coverImageUrl: null,
+    customerId: 'cu-01', customerName: 'Trần Bảo Linh', rating: 5, title: 'Bản dịch xuất sắc',
+    content: 'Dich tiep Viet cua Nguyet Phường Van đọc chăm và chân thương. Bản in đẹp, giao nhanh.',
+    status: ReviewStatus.Pending, sentiment: Sentiment.Positive, hasMedia: true,
+    mediaUrls: ['https://lh3.googleusercontent.com/aida-public/AB6AXuAPScrewoz7'], isVerifiedPurchase: true,
+    helpfulCount: 12, createdAt: '2025-11-03T10:00:00Z', replyContent: null },
+  { id: 'rv-02', bookId: 'b-03', bookTitle: 'Clean Code: A Handbook of Agile Software Craftsmanship',
+    coverImageUrl: null, customerId: 'cu-03', customerName: 'Le Van Minh', rating: 4, title: null,
+    content: 'Kien thuc tot, dung cho dev moi. Ban goc tieng Anh doc kha kho.',
+    status: ReviewStatus.Pending, sentiment: Sentiment.Positive, hasMedia: false, mediaUrls: [],
+    isVerifiedPurchase: true, helpfulCount: 4, createdAt: '2025-11-02T20:15:00Z', replyContent: null },
+  { id: 'rv-03', bookId: 'b-08', bookTitle: 'Đời Mâu Chiến Muôn Cai', coverImageUrl: null,
+    customerId: 'cu-05', customerName: 'Đỗ Anh Tuấn', rating: 2, title: 'Thiếu cập nhật',
+    content: 'Noi dung vuot thoi so voi luat hien hanh, nhieu dieu da lap trong thong tu 2023.',
+    status: ReviewStatus.Pending, sentiment: Sentiment.Negative, hasMedia: false, mediaUrls: [],
+    isVerifiedPurchase: false, helpfulCount: 1, createdAt: '2025-11-01T14:22:00Z', replyContent: null },
+  { id: 'rv-04', bookId: 'b-02', bookTitle: 'Sapiens: Lược Sử Loài Người', coverImageUrl: null,
+    customerId: 'cu-04', customerName: 'Phạm Quỳnh Anh', rating: 5, title: 'Phải đọc',
+    content: 'Mot cuon sach lam thay doi cach nhin ve loai nguoi. Ban Viet dich rat manh tai.',
+    status: ReviewStatus.Approved, sentiment: Sentiment.Positive, hasMedia: true,
+    mediaUrls: ['https://lh3.googleusercontent.com/aida-public/AB6AXuAPScrewoz8'], isVerifiedPurchase: true,
+    helpfulCount: 34, createdAt: '2025-10-28T09:00:00Z', replyContent: 'Cam on ban da chia se, BookVerse tran trong!' },
+  { id: 'rv-05', bookId: 'b-05', bookTitle: 'Những Ngày Ở Hiệu Sách Morisaki', coverImageUrl: null,
+    customerId: 'cu-02', customerName: 'Nguyen Thi Hoa', rating: 1, title: 'SPAM',
+    content: 'mua sach giam gia tai website nhe kien', status: ReviewStatus.Spam, sentiment: Sentiment.Negative,
+    hasMedia: false, mediaUrls: [], isVerifiedPurchase: false, helpfulCount: 0,
+    createdAt: '2025-10-25T22:40:00Z', replyContent: null }
+];

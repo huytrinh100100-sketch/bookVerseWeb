@@ -1,0 +1,27 @@
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.sourcelink.json
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.deps.json
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\refint\BookVerse.Core.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\ref\BookVerse.Core.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVers.145FE491.Up2Date
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.deps.json
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\bin\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\refint\BookVerse.Core.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\ref\BookVerse.Core.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Core\obj\Debug\net10.0\BookVers.145FE491.Up2Date

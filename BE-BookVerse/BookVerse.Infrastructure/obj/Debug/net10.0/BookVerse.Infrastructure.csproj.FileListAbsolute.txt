@@ -1,0 +1,35 @@
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.sourcelink.json
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.deps.json
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.runtimeconfig.json
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.pdb
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVers.FDA20F2A.Up2Date
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\refint\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.pdb
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Quan ly van phong\qlvp_refactor-main\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\ref\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.deps.json
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.runtimeconfig.json
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Infrastructure.pdb
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Core.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\bin\Debug\net10.0\BookVerse.Core.pdb
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVers.FDA20F2A.Up2Date
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\refint\BookVerse.Infrastructure.dll
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.pdb
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\BookVerse.Infrastructure.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CodeBook\BE-BookVerse\BookVerse.Infrastructure\obj\Debug\net10.0\ref\BookVerse.Infrastructure.dll
