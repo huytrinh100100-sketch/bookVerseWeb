@@ -2,8 +2,7 @@
 
 > Thư mục `FE-Bookstore/` chứa toàn bộ mã nguồn Frontend cho hệ thống **Quản lý sách (BookVerse)**,
 > được dựng lại từ 18 màn giao diện Stitch trong `stitch_bookstore_admin_dashboard/`,
-> bám theo pattern FE của dự án HIS (`FE/src/app`) và bám theo CSDL đã đánh giá
-> (`Docs/Danh-gia-thiet-ke-CSDL-Quan-ly-Nha-sach.docx`).
+
 
 ---
 
@@ -142,7 +141,7 @@ FE-Bookstore/
 
 ---
 
-## 3. Quy ước 4 file cho mỗi feature (giống HIS)
+## 3. Quy ước 4 file cho mỗi feature 
 
 Mỗi module domain có đúng 4 loại file:
 
@@ -209,7 +208,7 @@ Enum `UnitType { Sell, Rent }` được dùng chung giữa `books.models.ts` và
 
 ### 4.2. Categories → `features/admin/categories`
 
-Cây động đúng pattern HIS: node gốc `RootId = Id`, node con `RootId = Parent.RootId`, unique `(RootId, Code)`.
+Cây động : node gốc `RootId = Id`, node con `RootId = Parent.RootId`, unique `(RootId, Code)`.
 
 ```ts
 export const CATEGORY_ROOTS = {
@@ -379,32 +378,5 @@ this.setSession({
   roles: ['Admin'], permissions: [], accessToken: 'mock', refreshToken: 'mock',
   expiresAt: new Date(Date.now() + 3600_000).toISOString()
 });
-```
 
-> Lưu ý: `AuthStore.hasPermission()` trả `true` cho vai trò `Admin` — nên role Admin không cần khai báo đủ 62 quyền.
 
----
-
-## 9. Việc còn lại (TODO)
-
-| # | Hạng mục | Ghi chú |
-|---|---|---|
-| 1 | `bookverse_storefront_curated_salons_journal` | Cần thêm bảng `Salons` + `ArticleSubmissions` vào CSDL, sau đó gen `features/storefront/pages/storefront-curations.page.ts` |
-| 2 | Form nhập liệu (modal Add New Book / Category / Coupon…) | Stitch dùng modal inline; nên tách thành `dialog/` component riêng cho từng feature |
-| 3 | Biểu đồ doanh thu | Cần thêm thư viện (Chart.js hoặc `p-chart` của PrimeNG) cho `dashboard.revenueSeries` |
-| 4 | Import/Export CSV | Cần endpoint `POST /books/import` (multipart) + `GET /books/export` |
-| 5 | Phân trang server-side | `DataTableComponent` hiện render toàn bộ rows; cần thêm `paginator` |
-| 6 | i18n | Stitch dùng song ngữ (VI storefront / EN admin); hiện hard-code, nên tách sang file `i18n/` |
-| 7 | Test | Viết unit test cho `*Store` (load/filter/derived signals) |
-
----
-
-## 10. Liên kết tài liệu gốc
-
-| Tài liệu | Vai trò |
-|---|---|
-| `Docs/Danh-gia-thiet-ke-CSDL-Quan-ly-Nha-sach.docx` | Đánh giá & chốt CSDL (22 bảng, 107 quyền, thứ tự seed) |
-| `Docs/Bo-Prompt-Template-Sinh-code-FE-BE.docx` | Prompt template sinh code FE/BE |
-| `Docs/prompts/bootstrap_fe.md`, `bootstrap_be.md`, `feature.md` | Prompt GĐ0 / GĐ1 |
-| `stitch_bookstore_admin_dashboard/` | 18 màn giao diện Stitch nguồn |
-| `FE/src/app/` | Dự án HIS — tham chiếu pattern (signal store, guard, directive) |
